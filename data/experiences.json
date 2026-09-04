@@ -1,0 +1,336 @@
+[
+  {
+    "id": "exp-001",
+    "name": "Hidden Old City Breakfast Walk",
+    "category": "Food & Culture",
+    "city": "Hyderabad",
+    "location": "Charminar Old City, Hyderabad",
+    "lat": 17.3616,
+    "lon": 78.4747,
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=1200",
+    "gallery": [
+      "https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=1200",
+      "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?q=80&w=1200",
+      "https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=1200"
+    ],
+    "price": 300,
+    "currency": "INR",
+    "duration_minutes": 90,
+    "rating": 4.6,
+    "review_count": 328,
+    "hidden_gem": true,
+    "why_hidden": "Off the main tourist road with no signage — known mostly through word of mouth among Old City residents.",
+    "why_locals_go": "This isn't the neighbourhood's most photographed spot, but locals come for the same three breakfast stalls their families have used for decades. The quiet lanes behind the main market feel untouched by the tourist rush that starts closer to Charminar itself.",
+    "expectation_reality": {
+      "best_time": "7:00 - 9:00 AM",
+      "typical_crowd_at_best_time": "Quiet",
+      "what_you_do": "Try 4 local breakfast dishes across 3 family-run stalls",
+      "cost_range": "₹250 - ₹350",
+      "duration": "About 90 minutes, walking",
+      "dress_code": "Comfortable, modest clothing",
+      "photo_worthy": true,
+      "notes": "Cash usually preferred",
+      "crowd_type": "Mostly locals"
+    },
+    "trust_signals": {
+      "verified_visits": 127,
+      "reviews_last_30_days": 18,
+      "pct_reviews_with_photos": 83,
+      "local_contributors": 23,
+      "most_recent_review_days_ago": 2
+    },
+    "local_take": {
+      "recommend": true,
+      "reviewer_name": "Fatima, resident of 12 years",
+      "reason": "The food is still prepared traditionally and the area isn't crowded with tourists, especially before 9."
+    },
+    "crowd_level": {
+      "current": "green",
+      "by_hour": [
+        {"range": "6:00–8:00 AM", "level": "green"},
+        {"range": "8:00–10:00 AM", "level": "yellow"},
+        {"range": "10:00 AM–2:00 PM", "level": "red"}
+      ]
+    },
+    "before_you_go": {
+      "accessibility": 2,
+      "walking_time_minutes": 45,
+      "toilets": false,
+      "parking": "Limited",
+      "payment": "Cash recommended",
+      "language": "Telugu, Hindi, Urdu",
+      "safety": "Generally safe during daytime",
+      "family_friendly": true,
+      "solo_friendly": true,
+      "best_season": "October – February"
+    },
+    "host": {
+      "name": "Ayesha Khan",
+      "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=400",
+      "bio": "Local food enthusiast who has led breakfast walks through the Old City for six years.",
+      "response_time": "Usually responds within a few hours",
+      "verified": true,
+      "languages": ["English", "Hindi", "Urdu"]
+    },
+    "reviews": [
+      {
+        "name": "Priya S.",
+        "rating": 5,
+        "days_ago": 2,
+        "text": "Ayesha took us to a stall I would never have found on my own — the qubani ka meetha was incredible. Felt like being shown around by a friend, not a tour.",
+        "photo_count": 3
+      },
+      {
+        "name": "Daniel R.",
+        "rating": 4,
+        "days_ago": 9,
+        "text": "Great food, honest local pricing. It was busier than expected by the time we finished around 9:30 — go earlier if you can.",
+        "photo_count": 1
+      },
+      {
+        "name": "Meera K.",
+        "rating": 5,
+        "days_ago": 21,
+        "text": "The nihari at the second stall alone was worth it. Bring cash, small notes.",
+        "photo_count": 2
+      }
+    ]
+  },
+  {
+    "id": "exp-002",
+    "name": "Pottery With a Local Artisan",
+    "category": "Art & Crafts",
+    "city": "Hyderabad",
+    "location": "Nampally, Hyderabad",
+    "lat": 17.3927,
+    "lon": 78.4707,
+    "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?q=80&w=1200",
+    "gallery": [
+      "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?q=80&w=1200",
+      "https://images.unsplash.com/photo-1610701596007-11502861dcfa?q=80&w=1200"
+    ],
+    "price": 900,
+    "currency": "INR",
+    "duration_minutes": 120,
+    "rating": 4.8,
+    "review_count": 156,
+    "hidden_gem": true,
+    "why_hidden": "Runs out of a family home studio with no storefront — found only through referrals.",
+    "why_locals_go": "The potter's family has thrown clay on this same wheel for three generations. It's slower and quieter than a studio class, and you leave with something genuinely made by hand, including your own attempt.",
+    "expectation_reality": {
+      "best_time": "4:00 - 6:00 PM",
+      "typical_crowd_at_best_time": "Quiet, small groups only",
+      "what_you_do": "Learn wheel-throwing and glazing on a traditional potter's wheel",
+      "cost_range": "₹800 - ₹1000",
+      "duration": "About 2 hours",
+      "dress_code": "Clothes you don't mind getting clay on",
+      "photo_worthy": true,
+      "notes": "Book at least a day ahead, small group sizes only",
+      "crowd_type": "Mostly locals and returning visitors"
+    },
+    "trust_signals": {
+      "verified_visits": 94,
+      "reviews_last_30_days": 11,
+      "pct_reviews_with_photos": 91,
+      "local_contributors": 14,
+      "most_recent_review_days_ago": 5
+    },
+    "local_take": {
+      "recommend": true,
+      "reviewer_name": "Ravi, neighbourhood resident",
+      "reason": "It's not staged for tourists — it's literally their family workshop, and they still teach it the traditional way."
+    },
+    "crowd_level": {
+      "current": "green",
+      "by_hour": [
+        {"range": "10:00 AM–12:00 PM", "level": "yellow"},
+        {"range": "4:00–6:00 PM", "level": "green"},
+        {"range": "6:00–8:00 PM", "level": "yellow"}
+      ]
+    },
+    "before_you_go": {
+      "accessibility": 3,
+      "walking_time_minutes": 10,
+      "toilets": true,
+      "parking": "Street parking nearby",
+      "payment": "Cash or UPI",
+      "language": "Telugu, Hindi, English",
+      "safety": "Safe, residential area",
+      "family_friendly": true,
+      "solo_friendly": true,
+      "best_season": "Year-round"
+    },
+    "host": {
+      "name": "Ganesh Kumar",
+      "photo": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=400",
+      "bio": "Third-generation potter teaching wheel-throwing out of his family's home studio.",
+      "response_time": "Usually responds within an hour",
+      "verified": true,
+      "languages": ["Telugu", "Hindi", "English"]
+    },
+    "reviews": [
+      {
+        "name": "Wei L.",
+        "rating": 5,
+        "days_ago": 5,
+        "text": "Ganesh was endlessly patient. My bowl came out lopsided and he still made it feel like a win.",
+        "photo_count": 4
+      },
+      {
+        "name": "Sara M.",
+        "rating": 5,
+        "days_ago": 30,
+        "text": "One of the best two hours of our whole trip. Nothing touristy about it.",
+        "photo_count": 2
+      }
+    ]
+  },
+  {
+    "id": "exp-003",
+    "name": "Sunrise at Mandu Patila",
+    "category": "Nature",
+    "city": "Hyderabad",
+    "location": "Outer Ring Road, Hyderabad",
+    "lat": 17.4239,
+    "lon": 78.5312,
+    "image": "https://images.unsplash.com/photo-1519669556878-63bdad8a1a49?q=80&w=1200",
+    "gallery": [
+      "https://images.unsplash.com/photo-1519669556878-63bdad8a1a49?q=80&w=1200",
+      "https://images.unsplash.com/photo-1470770903676-69b98201ea1c?q=80&w=1200"
+    ],
+    "price": 0,
+    "currency": "INR",
+    "duration_minutes": 60,
+    "rating": 4.7,
+    "review_count": 64,
+    "hidden_gem": true,
+    "why_hidden": "No official signage or parking area; the trailhead is marked only by a small footpath behind a water tank, so most visitors drive past it entirely.",
+    "why_locals_go": "It's not the region's most dramatic viewpoint, but it's the one nobody has to share. Locals come for the quiet rather than the view alone — no vendors, no crowds, just the walk and the sunrise.",
+    "expectation_reality": {
+      "best_time": "5:30 - 6:30 AM",
+      "typical_crowd_at_best_time": "Quiet",
+      "what_you_do": "A short uphill walk to a viewpoint over the surrounding hills",
+      "cost_range": "Free",
+      "duration": "About 1 hour round trip",
+      "dress_code": "Walking shoes",
+      "photo_worthy": true,
+      "notes": "No facilities on site — bring water",
+      "crowd_type": "Mostly locals"
+    },
+    "trust_signals": {
+      "verified_visits": 41,
+      "reviews_last_30_days": 6,
+      "pct_reviews_with_photos": 78,
+      "local_contributors": 9,
+      "most_recent_review_days_ago": 4
+    },
+    "local_take": {
+      "recommend": true,
+      "reviewer_name": "Kiran, lives 10 minutes away",
+      "reason": "Weekday mornings it's just you and maybe one or two other regulars. Weekends it's still quiet before 7."
+    },
+    "crowd_level": {
+      "current": "green",
+      "by_hour": [
+        {"range": "5:30–7:00 AM", "level": "green"},
+        {"range": "7:00–9:00 AM", "level": "yellow"},
+        {"range": "9:00 AM onward", "level": "red"}
+      ]
+    },
+    "before_you_go": {
+      "accessibility": 2,
+      "walking_time_minutes": 25,
+      "toilets": false,
+      "parking": "Limited, unmarked",
+      "payment": "N/A — free",
+      "language": "Telugu",
+      "safety": "Safe in daylight; avoid after dark",
+      "family_friendly": true,
+      "solo_friendly": true,
+      "best_season": "October – March"
+    },
+    "host": null,
+    "reviews": [
+      {
+        "name": "Anjali T.",
+        "rating": 5,
+        "days_ago": 4,
+        "text": "Almost drove past the trailhead twice. Completely worth finding — had the whole viewpoint to ourselves.",
+        "photo_count": 5
+      }
+    ]
+  },
+  {
+    "id": "exp-004",
+    "name": "Weekend Flea Market Wander",
+    "category": "Local Markets",
+    "city": "Hyderabad",
+    "location": "Gudimalkapur, Hyderabad",
+    "lat": 17.3781,
+    "lon": 78.4359,
+    "image": "https://images.unsplash.com/photo-1555529771-122e5d9f2341?q=80&w=1200",
+    "gallery": [
+      "https://images.unsplash.com/photo-1555529771-122e5d9f2341?q=80&w=1200"
+    ],
+    "price": 0,
+    "currency": "INR",
+    "duration_minutes": 90,
+    "rating": 4.4,
+    "review_count": 210,
+    "hidden_gem": false,
+    "why_hidden": "",
+    "why_locals_go": "It's the flower and produce market locals actually shop at, not the version set up for photos — loud, functional, and genuinely part of the neighbourhood's routine.",
+    "expectation_reality": {
+      "best_time": "6:00 - 8:00 AM",
+      "typical_crowd_at_best_time": "Busy but functional, not touristy",
+      "what_you_do": "Walk the flower, spice and produce stalls, sample seasonal fruit",
+      "cost_range": "Free to browse, ₹50–200 for snacks",
+      "duration": "About 90 minutes",
+      "dress_code": "Comfortable, closed shoes recommended",
+      "photo_worthy": true,
+      "notes": "Ground can be wet/muddy early morning",
+      "crowd_type": "Mostly locals"
+    },
+    "trust_signals": {
+      "verified_visits": 88,
+      "reviews_last_30_days": 14,
+      "pct_reviews_with_photos": 70,
+      "local_contributors": 19,
+      "most_recent_review_days_ago": 1
+    },
+    "local_take": {
+      "recommend": true,
+      "reviewer_name": "Sunita, shops here weekly",
+      "reason": "Prices are honest and it's the freshest produce in the area — just go early before it gets hot."
+    },
+    "crowd_level": {
+      "current": "yellow",
+      "by_hour": [
+        {"range": "6:00–8:00 AM", "level": "yellow"},
+        {"range": "8:00–10:00 AM", "level": "red"}
+      ]
+    },
+    "before_you_go": {
+      "accessibility": 2,
+      "walking_time_minutes": 40,
+      "toilets": false,
+      "parking": "Street parking, fills up fast",
+      "payment": "Cash",
+      "language": "Telugu, Hindi",
+      "safety": "Safe, crowded",
+      "family_friendly": true,
+      "solo_friendly": true,
+      "best_season": "Year-round"
+    },
+    "host": null,
+    "reviews": [
+      {
+        "name": "Tom H.",
+        "rating": 4,
+        "days_ago": 1,
+        "text": "Loud and chaotic in the best way. Try the guava with chilli-salt from the stall near the entrance.",
+        "photo_count": 2
+      }
+    ]
+  }
+]
